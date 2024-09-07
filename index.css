@@ -1,0 +1,28 @@
+#green-btn{
+    background-color: greenyellow;
+    font-size: large;
+    border-radius: 5px;
+    margin:  10px;
+}
+#red-btn{
+    background-color: red;
+    font-size: large;
+    border-radius: 5px;
+    margin:  10px;
+
+}
+#blue-btn{
+    background-color: blue;
+    font-size: large;
+    border-radius: 5px;
+    margin:  10px;
+
+}
+#btn{
+    background-color: violet;
+    font-size: large;
+    border-radius: 5px;
+    margin:  10px;
+
+}
+
